@@ -1,0 +1,7 @@
+<resources>
+<style name="AppTheme" parent="android:Theme.Material.Light">
+    <item name="android:colorPrimary">#FF9800</item>
+    <item name="android:colorButtonNormal">#FF9800</item>
+</style>
+</resources>
+
